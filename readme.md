@@ -7,6 +7,8 @@ This is project 18 / 20.
 
 You can view a live version of the project [here](https://rperry99.github.io/splash-page/)
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 ## Thoughts
 
 I learned something pretty important from this project I think. I learned just HOW useful Figma can be. The CSS for this project came together SO fast because it was already styled on Figma.
